@@ -30,7 +30,7 @@ manifest:
       remote: cormoran
       revision: zmk-v0.3.0.0
     - name: zmk-nice-oled
-      remote: mctechnology17
+      url: https://github.com/Tranane-Ni/zmk-nice-oled
       revision: main
       path: external/zmk-nice-oled
   self:
